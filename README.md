@@ -1,6 +1,6 @@
 # deep_learning
 
-Projects and exercises from the fast.ai deep learning courses 1 & 2 and Deep learning for Coders with fastai and PyTorch (eg. Fastbook)
+Projects and exercises from the fast.ai deep learning courses 1 & 2 and Deep learning for Coders with fastai and PyTorch
 
 ## Projects
 
